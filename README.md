@@ -1,0 +1,2 @@
+# go.safelink
+safelink
